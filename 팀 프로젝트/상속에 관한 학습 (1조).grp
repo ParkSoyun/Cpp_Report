@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRP Version="2.0.0.5" Mode="0" TemplateObjectCnt="1" ChargeKey="��å~�Q��OE⳸2�y8�">
+    <GrTxtBrushArr Size="6">
+        <GrTxtBrush Type="0" GradientType="0" Color="ffffffff" GradientColor1="ff000000" GradientColor2="ff000000" KeepRate="false" Alpha="255" IgnoreBgColor="false"/>
+        <GrTxtBrush Type="0" GradientType="0" Color="ff000000" GradientColor1="ff000000" GradientColor2="ff000000" KeepRate="false" Alpha="255" IgnoreBgColor="false"/>
+        <GrTxtBrush Type="0" GradientType="0" Color="fff77200" GradientColor1="ff000000" GradientColor2="ff000000" KeepRate="false" Alpha="255" IgnoreBgColor="false"/>
+        <GrTxtBrush Type="0" GradientType="0" Color="ff43dc30" GradientColor1="ff000000" GradientColor2="ff000000" KeepRate="false" Alpha="255" IgnoreBgColor="false"/>
+        <GrTxtBrush Type="0" GradientType="0" Color="fff8994c" GradientColor1="ff000000" GradientColor2="ff000000" KeepRate="false" Alpha="255" IgnoreBgColor="false"/>
+        <GrTxtBrush Type="0" GradientType="0" Color="ffc95800" GradientColor1="ff000000" GradientColor2="ff000000" KeepRate="false" Alpha="255" IgnoreBgColor="false"/>
+    </GrTxtBrushArr>
+    <GrTxtOutlineArr Size="6">
+        <GrTxtOutline Color="ff000000" Ratio="0.10000000000000001"/>
+        <GrTxtOutline Color="00fcffff" Ratio="0.10000000000000001"/>
+        <GrTxtOutline Color="fff50000" Ratio="0.10000000000000001"/>
+        <GrTxtOutline Color="ffffffff" Ratio="0.10000000000000001"/>
+        <GrTxtOutline Color="ff434343" Ratio="0.10000000000000001"/>
+        <GrTxtOutline Color="fff8994c" Ratio="0.10000000000000001"/>
+    </GrTxtOutlineArr>
+    <GrTxtShadowArr Size="1">
+        <GrTxtShadow Color="00000000" ThickRatio="0.15000000596046448" Shadow_Type2="4"/>
+    </GrTxtShadowArr>
+    <GrTimelineViewMode Mode="18" output_width="1280" output_height="720"/>
+    <GrEncodingPath Path="C:\Users\ParkSoyun\Desktop\"/>
+    <GrVideoArr Size="10">
+        <GrVideo>
+            <GrVideoData FileName="C:\Users\ParkSoyun\Documents\GOMCam\GOMCAM 20190408_1838390857.png" SegStart="0" SegEnd="100" Mute="false" Volume="1" Tempo="1"/>
+            <GrVideoColorAdjust/>
+            <GrVideoFilter VideoColor="0" VideoColorType="0" VideoEffect="0" VideoEffectValue="20" FilterDynamicType="0" FilterUseLookupFile="0" FilterUseVignetteFile="0" FilterUseWallpaper="0" FilterUse2Gradient="0" FilterUseColorVignette="0"/>
+            <GrVideoTextureAdjust/>
+        </GrVideo>
+        <GrVideo>
+            <GrVideoData FileName="C:\Users\ParkSoyun\Documents\GOMCam\GOMCAM 20190408_1838470040.png" SegStart="0" SegEnd="650" Mute="false" Volume="1" Tempo="1"/>
+            <GrVideoColorAdjust/>
+            <GrVideoFilter VideoColor="0" VideoColorType="0" VideoEffect="0" VideoEffectValue="20" FilterDynamicType="0" FilterUseLookupFile="0" FilterUseVignetteFile="0" FilterUseWallpaper="0" FilterUse2Gradient="0" FilterUseColorVignette="0"/>
+            <GrVideoTextureAdjust/>
+        </GrVideo>
+        <GrVideo>
+            <GrVideoData FileName="C:\Users\ParkSoyun\Documents\GOMCam\GOMCAM 20190408_1838510193.png" SegStart="0" SegEnd="744" Mute="false" Volume="1" Tempo="1"/>
+            <GrVideoColorAdjust/>
+            <GrVideoFilter VideoColor="0" VideoColorType="0" VideoEffect="0" VideoEffectValue="20" FilterDynamicType="0" FilterUseLookupFile="0" FilterUseVignetteFile="0" FilterUseWallpaper="0" FilterUse2Gradient="0" FilterUseColorVignette="0"/>
+            <GrVideoTextureAdjust/>
+        </GrVideo>
+        <GrVideo>
+            <GrVideoData FileName="C:\Users\ParkSoyun\Documents\GOMCam\GOMCAM 20190408_1914450928.mp4" SegStart="804" SegEnd="2420" Mute="false" Volume="1" Tempo="1"/>
+            <GrVideoColorAdjust/>
+            <GrVideoFilter VideoColor="0" VideoColorType="0" VideoEffect="0" VideoEffectValue="20" FilterDynamicType="0" FilterUseLookupFile="0" FilterUseVignetteFile="0" FilterUseWallpaper="0" FilterUse2Gradient="0" FilterUseColorVignette="0"/>
+            <GrVideoTextureAdjust/>
+        </GrVideo>
+        <GrVideo>
+            <GrVideoData FileName="C:\Users\ParkSoyun\Documents\GOMCam\GOMCAM 20190408_1928250021.mp4" SegStart="745" SegEnd="1168" Mute="false" Volume="1" Tempo="1"/>
+            <GrVideoColorAdjust/>
+            <GrVideoFilter VideoColor="0" VideoColorType="0" VideoEffect="0" VideoEffectValue="20" FilterDynamicType="0" FilterUseLookupFile="0" FilterUseVignetteFile="0" FilterUseWallpaper="0" FilterUse2Gradient="0" FilterUseColorVignette="0"/>
+            <GrVideoTextureAdjust/>
+        </GrVideo>
+        <GrVideo>
+            <GrVideoData FileName="C:\Users\ParkSoyun\Documents\GOMCam\GOMCAM 20190408_1839080215.png" SegStart="0" SegEnd="1003" Mute="false" Volume="1" Tempo="1"/>
+            <GrVideoColorAdjust/>
+            <GrVideoFilter VideoColor="0" VideoColorType="0" VideoEffect="0" VideoEffectValue="20" FilterDynamicType="0" FilterUseLookupFile="0" FilterUseVignetteFile="0" FilterUseWallpaper="0" FilterUse2Gradient="0" FilterUseColorVignette="0"/>
+            <GrVideoTextureAdjust/>
+        </GrVideo>
+        <GrVideo>
+            <GrVideoData FileName="C:\Users\ParkSoyun\Documents\GOMCam\GOMCAM 20190408_1839110825.png" SegStart="0" SegEnd="1575" Mute="false" Volume="1" Tempo="1"/>
+            <GrVideoColorAdjust/>
+            <GrVideoFilter VideoColor="0" VideoColorType="0" VideoEffect="0" VideoEffectValue="20" FilterDynamicType="0" FilterUseLookupFile="0" FilterUseVignetteFile="0" FilterUseWallpaper="0" FilterUse2Gradient="0" FilterUseColorVignette="0"/>
+            <GrVideoTextureAdjust/>
+        </GrVideo>
+        <GrVideo>
+            <GrVideoData FileName="C:\Users\ParkSoyun\Documents\GOMCam\GOMCAM 20190408_1839140370.png" SegStart="0" SegEnd="1080" Mute="false" Volume="1" Tempo="1"/>
+            <GrVideoColorAdjust/>
+            <GrVideoFilter VideoColor="0" VideoColorType="0" VideoEffect="0" VideoEffectValue="20" FilterDynamicType="0" FilterUseLookupFile="0" FilterUseVignetteFile="0" FilterUseWallpaper="0" FilterUse2Gradient="0" FilterUseColorVignette="0"/>
+            <GrVideoTextureAdjust/>
+        </GrVideo>
+        <GrVideo>
+            <GrVideoData FileName="C:\Users\ParkSoyun\Documents\GOMCam\GOMCAM 20190408_1839160548.png" SegStart="0" SegEnd="1107" Mute="false" Volume="1" Tempo="1"/>
+            <GrVideoColorAdjust/>
+            <GrVideoFilter VideoColor="0" VideoColorType="0" VideoEffect="0" VideoEffectValue="20" FilterDynamicType="0" FilterUseLookupFile="0" FilterUseVignetteFile="0" FilterUseWallpaper="0" FilterUse2Gradient="0" FilterUseColorVignette="0"/>
+            <GrVideoTextureAdjust/>
+        </GrVideo>
+        <GrVideo>
+            <GrVideoData FileName="C:\Users\ParkSoyun\Documents\GOMCam\GOMCAM 20190408_1839180625.png" SegStart="0" SegEnd="59" Mute="false" Volume="1" Tempo="1"/>
+            <GrVideoColorAdjust/>
+            <GrVideoFilter VideoColor="0" VideoColorType="0" VideoEffect="0" VideoEffectValue="20" FilterDynamicType="0" FilterUseLookupFile="0" FilterUseVignetteFile="0" FilterUseWallpaper="0" FilterUse2Gradient="0" FilterUseColorVignette="0"/>
+            <GrVideoTextureAdjust/>
+        </GrVideo>
+    </GrVideoArr>
+    <GrObjArr Size="20">
+        <GrObj Type="4">
+            <GrTxtData Title="안녕하십니까 컴퓨터프로그래밍3   1조 
+C++ 상속에 대한 설명을 시작하겠습니다." GrEffectType="0" BackEffectType="1000" FirstEffectTime="100" BackEffectTime="50" FrontEaseType="3" BackEaseType="103" ApplyAll="0" Align="1" StartSeg="2" TotalSeg="648" VideoIndex="1" EffectListID="2" PosX="50.78125" PosY="88.888893" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00fcffff" Tempo="1"/>
+            <GrTxtAttArr Size="46">
+                <GrTxtAtt Code="50504" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45397" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54616" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49901" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44620" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52980" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54504" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53552" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54532" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47196" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44536" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47000" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48141" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51312" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="67" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="43" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="43" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49345" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49549" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50640" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45824" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54620" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49444" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47749" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51012" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49884" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51089" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54616" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44192" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49845" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="상속은 부모 클래스에서 정의된 멤버 변수와 멤버 함수를 " GrEffectType="0" BackEffectType="1000" FirstEffectTime="100" BackEffectTime="50" FrontEaseType="3" BackEaseType="103" ApplyAll="0" Align="0" StartSeg="1" TotalSeg="410" VideoIndex="2" EffectListID="3" PosX="50.195313" PosY="93.865738" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="31">
+                <GrTxtAtt Code="49345" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49549" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51008" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48512" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47784" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53364" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47000" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49828" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50640" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49436" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51221" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46108" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47716" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48260" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48320" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49688" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50752" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47716" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48260" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54632" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49688" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="자식 클래스에서 사용 할 수 있도록 하는 것을 말합니다." GrEffectType="0" BackEffectType="1000" FirstEffectTime="100" BackEffectTime="50" FrontEaseType="3" BackEaseType="103" ApplyAll="0" Align="0" StartSeg="411" TotalSeg="332" VideoIndex="2" EffectListID="4" PosX="50.390625" PosY="93.865738" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="31">
+                <GrTxtAtt Code="51088" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49885" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53364" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47000" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49828" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50640" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49436" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49324" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50857" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54624" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49688" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51080" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47197" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54616" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45716" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44163" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51012" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47568" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54633" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="상속의 예로 심재창교수님의 C++지식과 코딩 실력을 " GrEffectType="0" BackEffectType="1000" FirstEffectTime="100" BackEffectTime="50" FrontEaseType="3" BackEaseType="103" ApplyAll="0" Align="0" StartSeg="743" TotalSeg="456" VideoIndex="2" EffectListID="5" PosX="50.130207" PosY="93.865738" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="29">
+                <GrTxtAtt Code="49345" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49549" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50696" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47196" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49900" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51116" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52285" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44368" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49688" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45784" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="67" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="43" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="43" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51648" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49885" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44284" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53076" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46377" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49892" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47141" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51012" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="학생들이 컴퓨터프로그래밍 수업을 통해 
+물려 받는 것을 들 수 있습니다." GrEffectType="0" BackEffectType="1000" FirstEffectTime="100" BackEffectTime="50" FrontEaseType="3" BackEaseType="103" ApplyAll="0" Align="1" StartSeg="456" TotalSeg="468" VideoIndex="3" EffectListID="6" PosX="50.130207" PosY="88.888893" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="40">
+                <GrTxtAtt Code="54617" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49373" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46308" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52980" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54504" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53552" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54532" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47196" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44536" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47000" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48141" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49688" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50629" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51012" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53685" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47932" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47140" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48155" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45716" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44163" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51012" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46308" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49688" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51080" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49845" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="여기에서 심재창 교수님이 부모 클래스가 되고 " GrEffectType="0" BackEffectType="1000" FirstEffectTime="100" BackEffectTime="50" FrontEaseType="3" BackEaseType="103" ApplyAll="0" Align="1" StartSeg="981" TotalSeg="284" VideoIndex="3" EffectListID="7" PosX="48.307289" PosY="93.865738" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="25">
+                <GrTxtAtt Code="50668" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44592" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50640" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49436" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49900" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51116" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52285" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44368" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49688" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45784" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48512" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47784" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53364" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47000" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49828" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44032" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46104" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44256" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="컴퓨터공학과 학생들이 자식 클래스가 됩니다." GrEffectType="0" BackEffectType="1000" FirstEffectTime="100" BackEffectTime="50" FrontEaseType="3" BackEaseType="103" ApplyAll="0" Align="1" StartSeg="1266" TotalSeg="338" VideoIndex="3" EffectListID="8" PosX="49.674477" PosY="93.865738" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="24">
+                <GrTxtAtt Code="52980" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54504" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53552" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44277" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54617" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44284" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54617" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49373" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46308" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51088" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49885" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53364" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47000" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49828" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44032" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46121" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="부모 클래스인 Parent는 자식 클래스에 상속해주기 위해 " GrEffectType="0" BackEffectType="1000" FirstEffectTime="100" BackEffectTime="50" FrontEaseType="3" BackEaseType="103" ApplyAll="0" Align="0" StartSeg="0" TotalSeg="379" VideoIndex="5" EffectListID="9" PosX="50" PosY="93.865738" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="33">
+                <GrTxtAtt Code="48512" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47784" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53364" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47000" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49828" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51064" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="80" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="97" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="114" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="101" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="110" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="116" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45716" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51088" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49885" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53364" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47000" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49828" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50640" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49345" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49549" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51452" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44592" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50948" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="protected 속에 이름과 나이 변수를 선언 해주고 
+출력해주는 함수인 Pr()을 만들어줍니다." GrEffectType="0" BackEffectType="1000" FirstEffectTime="100" BackEffectTime="50" FrontEaseType="3" BackEaseType="103" ApplyAll="0" Align="1" StartSeg="380" TotalSeg="623" VideoIndex="5" EffectListID="10" PosX="49.804688" PosY="88.888893" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="55">
+                <GrTxtAtt Code="112" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="114" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="111" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="116" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="101" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="99" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="116" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="101" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="100" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49549" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50640" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47492" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44284" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45208" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48320" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49688" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49440" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50616" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51452" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44256" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52636" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47141" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51452" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45716" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54632" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49688" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51064" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="80" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="114" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="40" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="41" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51012" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47564" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46308" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50612" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51469" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="자식 클래스인 Son은 public Parent를 씀으로써 
+Parent를 상속 받습니다." GrEffectType="0" BackEffectType="1000" FirstEffectTime="100" BackEffectTime="50" FrontEaseType="3" BackEaseType="103" ApplyAll="0" Align="1" StartSeg="1" TotalSeg="500" VideoIndex="6" EffectListID="11" PosX="49.869789" PosY="88.888893" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="50">
+                <GrTxtAtt Code="51088" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49885" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53364" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47000" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49828" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51064" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="83" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="111" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="110" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51008" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="112" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="117" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="98" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="108" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="105" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="99" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="80" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="97" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="114" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="101" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="110" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="116" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50432" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51004" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47196" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50024" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="80" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="97" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="114" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="101" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="110" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="116" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49345" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49549" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48155" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49845" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="그리고 자식 클래스만 가지는 학번 변수를 선언해주며 " GrEffectType="0" BackEffectType="1000" FirstEffectTime="100" BackEffectTime="50" FrontEaseType="3" BackEaseType="103" ApplyAll="0" Align="1" StartSeg="502" TotalSeg="405" VideoIndex="6" EffectListID="12" PosX="50" PosY="93.865738" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="29">
+                <GrTxtAtt Code="44536" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47532" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44256" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51088" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49885" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53364" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47000" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49828" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47564" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44032" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51648" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45716" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54617" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48264" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48320" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49688" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49440" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50616" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51452" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47728" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="이름, 나이, 학번을 초기화 시켜주는 생성자를 만들어줍니다." GrEffectType="0" BackEffectType="1000" FirstEffectTime="100" BackEffectTime="50" FrontEaseType="3" BackEaseType="103" ApplyAll="0" Align="0" StartSeg="908" TotalSeg="440" VideoIndex="6" EffectListID="13" PosX="50.585938" PosY="93.865738" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="33">
+                <GrTxtAtt Code="51060" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47492" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45208" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54617" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48264" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51012" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52488" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44592" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49884" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53020" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51452" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45716" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49373" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49457" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51088" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47564" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46308" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50612" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51469" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="또 Pr()함수를 오버라이딩 해 줍니다." GrEffectType="0" BackEffectType="1000" FirstEffectTime="100" BackEffectTime="50" FrontEaseType="3" BackEaseType="103" ApplyAll="0" Align="0" StartSeg="1350" TotalSeg="225" VideoIndex="6" EffectListID="14" PosX="49.479164" PosY="93.865738" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="22">
+                <GrTxtAtt Code="46608" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="80" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="114" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="40" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="41" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54632" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49688" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50724" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48260" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46972" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46377" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51469" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="main 함수에서 Son 클래스 객체를 생성하면서 " GrEffectType="0" BackEffectType="1000" FirstEffectTime="100" BackEffectTime="50" FrontEaseType="3" BackEaseType="103" ApplyAll="0" Align="0" StartSeg="1" TotalSeg="300" VideoIndex="7" EffectListID="15" PosX="49.479164" PosY="93.865738" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="28">
+                <GrTxtAtt Code="109" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="97" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="105" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="110" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54632" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49688" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50640" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49436" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="83" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="111" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="110" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53364" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47000" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49828" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44061" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52404" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49373" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49457" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54616" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47732" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49436" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="데이터를 초기화해주고 Parent 클래스는 포인터로 객체를 " GrEffectType="0" BackEffectType="1000" FirstEffectTime="100" BackEffectTime="50" FrontEaseType="3" BackEaseType="103" ApplyAll="0" Align="0" StartSeg="302" TotalSeg="374" VideoIndex="7" EffectListID="16" PosX="50.911457" PosY="93.634262" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="33">
+                <GrTxtAtt Code="45936" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53552" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52488" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44592" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51452" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44256" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="80" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="97" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="114" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="101" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="110" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="116" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53364" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47000" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49828" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45716" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54252" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51064" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53552" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47196" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44061" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52404" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="선언하고 Son 클래스 객체의 주소값으로 초기화 해줍니다." GrEffectType="0" BackEffectType="1000" FirstEffectTime="100" BackEffectTime="50" FrontEaseType="3" BackEaseType="103" ApplyAll="0" Align="0" StartSeg="677" TotalSeg="404" VideoIndex="7" EffectListID="17" PosX="50.065105" PosY="93.634262" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="32">
+                <GrTxtAtt Code="49440" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50616" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54616" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44256" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="83" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="111" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="110" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53364" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47000" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49828" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44061" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52404" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51452" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49548" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44050" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51004" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47196" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52488" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44592" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51469" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="실행 결과를 살펴보면 부모 클래스는 이름과 나이만 출력하고" GrEffectType="0" BackEffectType="1000" FirstEffectTime="100" BackEffectTime="50" FrontEaseType="3" BackEaseType="103" ApplyAll="0" Align="0" StartSeg="2" TotalSeg="387" VideoIndex="8" EffectListID="18" PosX="50.585938" PosY="93.865738" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="32">
+                <GrTxtAtt Code="49892" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54665" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="20" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44208" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44284" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49332" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54196" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48372" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47732" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48512" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47784" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="20" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53364" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47000" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49828" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45716" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47492" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44284" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45208" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47564" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52636" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47141" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54616" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44256" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title=" 자식 클래스는 상속받은 이름과 나이 뿐만 아니라 " GrEffectType="0" BackEffectType="1000" FirstEffectTime="100" BackEffectTime="50" FrontEaseType="3" BackEaseType="103" ApplyAll="0" Align="0" StartSeg="390" TotalSeg="301" VideoIndex="8" EffectListID="19" PosX="49.804688" PosY="93.865738" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="28">
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51088" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49885" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53364" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47000" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49828" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45716" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49345" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49549" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48155" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51008" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47492" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44284" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45208" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49104" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47564" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50500" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46972" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="자신의 멤버변수인 학번도 
+함께 출력하는 것을 알 수 있습니다." GrEffectType="0" BackEffectType="1000" FirstEffectTime="100" BackEffectTime="50" FrontEaseType="3" BackEaseType="103" ApplyAll="0" Align="1" StartSeg="692" TotalSeg="417" VideoIndex="8" EffectListID="20" PosX="49.869789" PosY="88.888893" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="35">
+                <GrTxtAtt Code="51088" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49888" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47716" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48260" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48320" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49688" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51064" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54617" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48264" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54632" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44760" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52636" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47141" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54616" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45716" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44163" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51012" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50508" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49688" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51080" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49845" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="지금부터 코드를 통해 상속을 살펴보도록 하겠습니다." GrEffectType="0" BackEffectType="1000" FirstEffectTime="98" BackEffectTime="50" FrontEaseType="3" BackEaseType="103" ApplyAll="0" Align="0" StartSeg="1" TotalSeg="369" VideoIndex="4" EffectListID="21" PosX="49.934898" PosY="93.865738" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="28">
+                <GrTxtAtt Code="51648" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44552" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48512" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53552" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53076" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46300" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53685" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49345" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49549" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51012" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49332" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54196" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48372" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47197" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54616" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44192" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49845" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="55" FontStyle="0" FaceName="한컴 백제 M" BrushID="4" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+    </GrObjArr>
+    <GrAudioArr Size="9">
+        <GrAudio>
+            <GrAudioPath TempPath="C:\Users\PARKSO~1\AppData\Local\Temp\GomMix\음성 007_2B4B.tmp" Path="C:\Users\ParkSoyun\Documents\카카오톡 받은 파일\음성 007.m4a"/>
+            <GrAudioData VideoIndex="1" StartSeg="0" TotalSeg="650" PosX="241" PosY="107" Width="650" Height="29" SegStart="0" SegEnd="650" Mute="false" Volume="1"/>
+        </GrAudio>
+        <GrAudio>
+            <GrAudioPath TempPath="C:\Users\PARKSO~1\AppData\Local\Temp\GomMix\음성 007_2F25.tmp" Path="C:\Users\ParkSoyun\Documents\카카오톡 받은 파일\음성 007.m4a"/>
+            <GrAudioData VideoIndex="2" StartSeg="0" TotalSeg="744" PosX="891" PosY="107" Width="744" Height="29" SegStart="0" SegEnd="744" Mute="false" Volume="1"/>
+        </GrAudio>
+        <GrAudio>
+            <GrAudioPath TempPath="C:\Users\PARKSO~1\AppData\Local\Temp\GomMix\음성 007_4D84.tmp" Path="C:\Users\ParkSoyun\Documents\카카오톡 받은 파일\음성 007.m4a"/>
+            <GrAudioData VideoIndex="5" StartSeg="0" TotalSeg="1003" PosX="3674" PosY="107" Width="1003" Height="29" SegStart="0" SegEnd="1003" Mute="false" Volume="1"/>
+        </GrAudio>
+        <GrAudio>
+            <GrAudioPath TempPath="C:\Users\PARKSO~1\AppData\Local\Temp\GomMix\음성 007_52DD.tmp" Path="C:\Users\ParkSoyun\Documents\카카오톡 받은 파일\음성 007.m4a"/>
+            <GrAudioData VideoIndex="6" StartSeg="1" TotalSeg="500" PosX="4678" PosY="107" Width="500" Height="29" SegStart="0" SegEnd="500" Mute="false" Volume="1"/>
+        </GrAudio>
+        <GrAudio>
+            <GrAudioPath TempPath="C:\Users\PARKSO~1\AppData\Local\Temp\GomMix\음성 007_560D.tmp" Path="C:\Users\ParkSoyun\Documents\카카오톡 받은 파일\음성 007.m4a"/>
+            <GrAudioData VideoIndex="6" StartSeg="501" TotalSeg="848" PosX="5178" PosY="107" Width="848" Height="29" SegStart="0" SegEnd="848" Mute="false" Volume="1"/>
+        </GrAudio>
+        <GrAudio>
+            <GrAudioPath TempPath="C:\Users\PARKSO~1\AppData\Local\Temp\GomMix\음성 007_59BA.tmp" Path="C:\Users\ParkSoyun\Documents\카카오톡 받은 파일\음성 007.m4a"/>
+            <GrAudioData VideoIndex="6" StartSeg="1349" TotalSeg="226" PosX="6026" PosY="107" Width="226" Height="29" SegStart="0" SegEnd="226" Mute="false" Volume="1"/>
+        </GrAudio>
+        <GrAudio>
+            <GrAudioPath TempPath="C:\Users\PARKSO~1\AppData\Local\Temp\GomMix\음성 007_5D2B.tmp" Path="C:\Users\ParkSoyun\Documents\카카오톡 받은 파일\음성 007.m4a"/>
+            <GrAudioData VideoIndex="6" StartSeg="1574" TotalSeg="1080" PosX="6251" PosY="107" Width="1080" Height="29" SegStart="0" SegEnd="1080" Mute="false" Volume="1"/>
+        </GrAudio>
+        <GrAudio>
+            <GrAudioPath TempPath="C:\Users\PARKSO~1\AppData\Local\Temp\GomMix\음성 007_621E.tmp" Path="C:\Users\ParkSoyun\Documents\카카오톡 받은 파일\음성 007.m4a"/>
+            <GrAudioData VideoIndex="8" StartSeg="1" TotalSeg="1107" PosX="7333" PosY="107" Width="1107" Height="29" SegStart="0" SegEnd="1107" Mute="false" Volume="1"/>
+        </GrAudio>
+        <GrAudio>
+            <GrAudioPath TempPath="C:\Users\PARKSO~1\AppData\Local\Temp\GomMix\음성 007_679E.tmp" Path="C:\Users\ParkSoyun\Documents\카카오톡 받은 파일\음성 007.m4a"/>
+            <GrAudioData VideoIndex="9" StartSeg="2" TotalSeg="58" PosX="8441" PosY="107" Width="58" Height="29" SegStart="0" SegEnd="58" Mute="false" Volume="1"/>
+        </GrAudio>
+    </GrAudioArr>
+    <GrEffectArr Size="0"/>
+</GRP>
